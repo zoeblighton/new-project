@@ -6,10 +6,15 @@ function App() {
       <h1>Weather App</h1>
       <footer>
         {" "}
-        This project was coded by Zoe Blighton and is{" "}
+        This project was coded by{" "}
+        <a href="https://github.com/zoeblighton" target="_blank">
+          {" "}
+          Zoe Blighton{" "}
+        </a>
+        and is open sourced on{" "}
         <a href="https://github.com/zoeblighton/new-project" target="_blank">
           {" "}
-          open sourced on Github
+          Github
         </a>{" "}
       </footer>{" "}
     </div>
